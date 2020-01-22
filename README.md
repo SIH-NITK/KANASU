@@ -6,6 +6,7 @@ MODULES NEEDED<br/>
  - numpy<br/>
  - matplotlib<br/><br/>
  
- Also used LSTM to forecast NDVI mean values for the next 12 months 
+Plotted graph from NDVI values for 2 years
+Used LSTM to forecast NDVI mean values for the next 12 months 
 
 # CLONE THE REPOSITORY AND RUN ON JUPYTER NOTEBOOK
