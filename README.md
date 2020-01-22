@@ -1,9 +1,9 @@
 # Smart-india-hackathon
 
 <h2>RUNNING INSTRUCTIONS</h2>
-MODULES NEEDED
- - opencv-python
- - numpy
- - matplotlib
+MODULES NEEDED<br/>
+ - opencv-python<br/>
+ - numpy<br/>
+ - matplotlib<br/><br/>
 
 # CLONE THE REPOSITORY AND RUN ON JUPYTER NOTEBOOK
