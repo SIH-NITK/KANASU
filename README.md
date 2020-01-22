@@ -6,5 +6,4 @@ MODULES NEEDED<br/>
  - numpy<br/>
  - matplotlib<br/><br/>
 
-Please look at wiki for our results<br/>
 # CLONE THE REPOSITORY AND RUN ON JUPYTER NOTEBOOK
